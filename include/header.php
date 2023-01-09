@@ -48,7 +48,7 @@
               <a class="nav-link" href="contact.php">Contact</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="blog.html">Blog</a>
+              <a class="nav-link" href="chijiubavictory.hashnode.dev">Blog</a>
             </li>
           </ul>
         </div>
