@@ -89,6 +89,10 @@
   <script src="assets/js/theme-change.js"></script>
   <!-- disable body scroll which navbar is in active -->
   <script>
+    let home = document.getElementById("contact");
+    let title = document.getElementById("title");
+    home.innerHTML = "(current)";
+    title.innerHTML = "Chijiuba| Contact";
     $(function () {
       $('.navbar-toggler').click(function () {
         $('body').toggleClass('noscroll');

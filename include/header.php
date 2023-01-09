@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="keywords"
     content="Reprise Responsive web template, Bootstrap Web Templates" />
-  <title>Chijiuba| Home</title>
+  <title id="title"></title>
   <link href="//fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap"
     rel="stylesheet">
   <link href="//fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
@@ -36,16 +36,16 @@
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
           <ul class="navbar-nav mx-lg-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="index.php">Home <span class="sr-only" id="home"></span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about.php">About</a>
+              <a class="nav-link" href="about.php">About <span class="sr-only" id="about"></span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="services.php">Services</a>
+              <a class="nav-link" href="services.php">Services <span class="sr-only" id="services"></span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contact.php">Contact</a>
+              <a class="nav-link" href="contact.php">Contact <span class="sr-only" id="contact"></span></a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="https://chijiubavictory.hashnode.dev">Blog</a>
