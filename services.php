@@ -231,9 +231,8 @@
     <script src="assets/js/jquery-3.3.1.min.js"></script>
     <script src="assets/js/theme-change.js"></script>
     <script>
-      let home = document.getElementById("services");
+      $("#services-active").addClass("active");
       let title = document.getElementById("title");
-      home.innerHTML = "(current)";
       title.innerHTML = "Chijiuba| Services";
       function buttonUp() {
         var valux = $('.sb-search-input').val();

@@ -35,17 +35,17 @@
 
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
           <ul class="navbar-nav mx-lg-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="index.php">Home <span class="sr-only" id="home"></span></a>
+            <li class="nav-item" id="home-active">
+              <a class="nav-link" href="index.php">Home <span class="sr-only"></span></a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="about.php">About <span class="sr-only" id="about"></span></a>
+            <li class="nav-item" id="about-active">
+              <a class="nav-link" href="about.php">About <span class="sr-only"></span></a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="services.php">Services <span class="sr-only" id="services"></span></a>
+            <li class="nav-item" id="sevices-active">
+              <a class="nav-link" href="services.php">Services <span class="sr-only"></span></a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contact.php">Contact <span class="sr-only" id="contact"></span></a>
+            <li class="nav-item" id="contact-active">
+              <a class="nav-link" href="contact.php">Contact <span class="sr-only"></span></a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="https://chijiubavictory.hashnode.dev">Blog</a>

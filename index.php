@@ -167,9 +167,8 @@
    <!--/carousel-->
   <script src="assets/js/owl.carousel.js"></script>
   <script>
-    let home = document.getElementById("home");
+    $("#home-active").addClass("active");
     let title = document.getElementById("title");
-    home.innerHTML = "(current)";
     title.innerHTML = "Chijiuba| Home";
     $(document).ready(function () {
       $("#owl-demo1").owlCarousel({
