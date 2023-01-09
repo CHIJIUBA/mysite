@@ -40,15 +40,15 @@
                 <p class="title mt-2">
                   Follow Me </p>
                 <div class="social-column-3 mt-3">
-                  <a href="#" target="_blank" class="twitter">
+                  <a href="https://twitter.com/Sir_Vic45?t=Y_7i_CSVVle0zTsNVJluQ&s=09" target="_blank" class="twitter">
                     <span class="fa fa-twitter mr-2"></span>
                     <span class="social-text">Twitter</span>
                   </a>
-                  <a href=" #" target="_blank" class="instagram">
+                  <a href="https://github.com/CHIJIUBA" target="_blank" class="instagram">
                     <span class="fa fa-github mr-2"></span>
                     <span class="social-text">GitHub</span>
                   </a>
-                  <a href=" #" target="_blank" class="dribble">
+                  <a href="https://www.linkedin.com/in/chijiuba-victory-a8865615a" target="_blank" class="dribble">
                     <span class="fa fa-linkedin mr-2"></span>
                     <span class="social-text">LinkedIn</span>
                   </a>
