@@ -41,7 +41,7 @@
             <li class="nav-item" id="about-active">
               <a class="nav-link" href="about.php">About <span class="sr-only"></span></a>
             </li>
-            <li class="nav-item" id="sevices-active">
+            <li class="nav-item" id="services-active">
               <a class="nav-link" href="services.php">Services <span class="sr-only"></span></a>
             </li>
             <li class="nav-item" id="contact-active">
