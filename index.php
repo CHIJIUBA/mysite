@@ -13,7 +13,7 @@
           <!-- <p class="mt-4 pr-lg-5" style="color: black;">I design with a purpose, viewing digital a single piece of a larger picture.
             Escalate effective products through design and creative strategy.</p> -->
           <div class="mt-sm-5 mt-4">
-            <a class="btn btn-primary btn-style" href="contact.html"> Let's Connect </a>
+            <a class="btn btn-primary btn-style" href="contact.php"> Let's Connect </a>
           </div>
         </div>
       </div>
