@@ -27,7 +27,7 @@
         <div class="row mx-auto text-center">
           <div class="col-lg-12 mt-lg-0 mt-5 text-left">
             <h5 class="title-subhny mb-2">About Me</h5>
-            <h3 class="title-w3l"><span>I'm a Passionate Software Engineer who loves simplicity in things and builds a better</span> Web with love.</h3>
+            <h3 class="title-w3l"><span>Hi, I'm Chijiuba Victory a Passionate Software Engineer who loves simplicity in things and builds a better</span> Web with love.</h3>
             <p class="mt-4">I am a young backend developer from Nigeria, with a degree in computer science, I have been in the busienss since 2019.
               Through the years of my career I have worked on several real world projects, and I have an amazing <a href="https://github.com/CHIJIUBA">portfolio</a>. My
               speciality is backend web development. I guarentee great communication and quick turnaround.</p>
