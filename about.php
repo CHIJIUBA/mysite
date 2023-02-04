@@ -17,11 +17,8 @@
           <div class="col-lg-4 left-wthree-info align-self">
             <h6 class="title-subhny">About Me</h6>
             <h3 class="title-w3l mb-4"><span>I'm a Passionate</span> Software Engineer</h3>
-            <p class="">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
-              ultrices in ligula. Semper at tempufddfel consectetur adipisicing dolor amet tempufddfel.</p>
-            <p class="mt-3">Pellen
-              tesque libero ut justo, ultrices in ligula. Semper at
-              tempufddfel. Learn more about our work! Lorem ipsum viverra feugiat.</p>
+            <p class="">Highly motivated Backend Developer with a passion for creating efficient and scalable systems. Skilled in utilizing various programming languages including Java, Python, and Ruby. Proficient in designing and implementing RESTful APIs, as well as working with databases like MySQL, PostgreSQL, and NoSQL.</p>
+            <p class="mt-3">Experienced in cloud computing and deployment, particularly with AWS and Google Cloud. Committed to delivering high-quality and secure solutions while continuously improving skills and knowledge in the field.</p>
             <div class="about-pic-info mt-4">
               <h4> Follow Me</h4>
 
