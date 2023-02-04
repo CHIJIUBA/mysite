@@ -36,10 +36,16 @@
             </p>
           </div>
           <div class="col-lg-4 left-wthree-info px-lg-5 mt-lg-0 mt-5">
-            <h6 class="title-subhny">Education & Job</h6>
+            <h6 class="title-subhny">Job</h6>
             <h3 class="title-w3l mb-4"><span>My</span> Experience</h3>
-            <p>Pellen tesque libero ut justo, ultrices in ligula. Semper at tempufddfel. Learn more about our work!
-              Lorem ipsum viverra feugiat.</p>
+            <!-- <p>Pellen tesque libero ut justo, ultrices in ligula. Semper at tempufddfel. Learn more about our work! -->
+              <!-- Lorem ipsum viverra feugiat.</p> -->
+              <ul>
+                <li>Strong expertise in PHP, Python, and Node.js with experience in designing and implementing RESTful APIs.</li>
+                <li>Hands-on experience with databases such as MySQL, MongoDB, and PostgreSQL and proficiency in designing and implementing data models.</li>
+                <li>In-depth knowledge of cloud computing platforms such as AWS and Google Cloud, with experience in deploying and managing applications.</li>
+                <li>Proven track record of delivering high-performance and scalable solutions, while ensuring security and availability.</li>
+              </ul>
             <div class="left-wthree-img-inf mt-4">
               <h4 class="title">
                 Software Engineer </h4>
