@@ -45,6 +45,8 @@
                 <li>Hands-on experience with databases such as MySQL, MongoDB, and PostgreSQL and proficiency in designing and implementing data models.</li>
                 <li>In-depth knowledge of cloud computing platforms such as AWS and Google Cloud, with experience in deploying and managing applications.</li>
                 <li>Proven track record of delivering high-performance and scalable solutions, while ensuring security and availability.</li>
+                <li>Proven track record of delivering high-performance and scalable solutions, while ensuring security and availability.</li>
+                <li>Passionate about staying up-to-date with industry trends and continuously improving technical skills.</li>
               </ul>
             <div class="left-wthree-img-inf mt-4">
               <h4 class="title">
